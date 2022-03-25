@@ -12,4 +12,3 @@ b = 20_000
 #identity operator
 
 print(a is b) #nie używać - wywala błędy w konsoli
-
